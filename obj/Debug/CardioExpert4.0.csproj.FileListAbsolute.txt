@@ -1,0 +1,51 @@
+D:\уч.материалы\8 семестр\диплом\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.exe.config
+D:\уч.материалы\8 семестр\диплом\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.exe
+D:\уч.материалы\8 семестр\диплом\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.pdb
+D:\уч.материалы\8 семестр\диплом\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csprojAssemblyReference.cache
+D:\уч.материалы\8 семестр\диплом\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4._0.Form1.resources
+D:\уч.материалы\8 семестр\диплом\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4._0.Properties.Resources.resources
+D:\уч.материалы\8 семестр\диплом\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csproj.GenerateResource.cache
+D:\уч.материалы\8 семестр\диплом\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csproj.CoreCompileInputs.cache
+D:\уч.материалы\8 семестр\диплом\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.exe
+D:\уч.материалы\8 семестр\диплом\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.pdb
+C:\Acer\Проекты CPP\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.exe.config
+C:\Acer\Проекты CPP\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.exe
+C:\Acer\Проекты CPP\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.pdb
+C:\Acer\Проекты CPP\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csprojAssemblyReference.cache
+C:\Acer\Проекты CPP\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4._0.FormMain.resources
+C:\Acer\Проекты CPP\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4._0.Properties.Resources.resources
+C:\Acer\Проекты CPP\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csproj.GenerateResource.cache
+C:\Acer\Проекты CPP\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csproj.CoreCompileInputs.cache
+C:\Acer\Проекты CPP\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.exe
+C:\Acer\Проекты CPP\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.pdb
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт 5.0\CardioExpert4.0 правленый\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csprojAssemblyReference.cache
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт 5.0\CardioExpert4.0 правленый\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4._0.FormMain.resources
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт 5.0\CardioExpert4.0 правленый\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4._0.Properties.Resources.resources
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт 5.0\CardioExpert4.0 правленый\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csproj.GenerateResource.cache
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт 5.0\CardioExpert4.0 правленый\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csproj.CoreCompileInputs.cache
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт 5.0\CardioExpert4.0 правленый\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.exe
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт 5.0\CardioExpert4.0 правленый\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.pdb
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт 5.0\CardioExpert4.0 правленый\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.exe.config
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт 5.0\CardioExpert4.0 правленый\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.exe
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт 5.0\CardioExpert4.0 правленый\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.pdb
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.exe.config
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.exe
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.pdb
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csprojAssemblyReference.cache
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4._0.FormMain.resources
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4._0.Properties.Resources.resources
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csproj.GenerateResource.cache
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csproj.CoreCompileInputs.cache
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.exe
+D:\уч.материалы\8 семестр\диплом\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.pdb
+D:\Education\VKR\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.exe.config
+D:\Education\VKR\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.exe
+D:\Education\VKR\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\bin\Debug\CardioExpert4.0.pdb
+D:\Education\VKR\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csproj.AssemblyReference.cache
+D:\Education\VKR\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csproj.SuggestedBindingRedirects.cache
+D:\Education\VKR\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4._0.FormMain.resources
+D:\Education\VKR\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4._0.Properties.Resources.resources
+D:\Education\VKR\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csproj.GenerateResource.cache
+D:\Education\VKR\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.csproj.CoreCompileInputs.cache
+D:\Education\VKR\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.exe
+D:\Education\VKR\КардиоЭксперт финал\CardioExpert4.1\CardioExpert4.0\CardioExpert4.0\obj\Debug\CardioExpert4.0.pdb
